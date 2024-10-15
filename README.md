@@ -1,8 +1,8 @@
 # 👋 Hi
 
-I'm an engineer with a strong focus on cybersecurity, automation, and full-stack development.
-
 <div align="center">
+
+  I'm an engineer with a strong focus on cybersecurity, automation, and full-stack development.
 
   <img src="https://tryhackme-badges.s3.amazonaws.com/Throupy.png" alt="Your Image Badge" width="400"/>
   <hr>
