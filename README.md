@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  I'm an engineer with a strong focus on cybersecurity, automation, and full-stack development.
+  I'm an engineer with a strong focus on cybersecurity, hardware, and automation.
   
   Socials:<br>
   
